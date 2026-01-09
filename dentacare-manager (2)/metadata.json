@@ -1,7 +1,0 @@
-{
-  "name": "DentaCare Manager",
-  "description": "A comprehensive mobile-friendly dental clinic management system with multilingual support (Arabic/English), patient records, treatment tracking, financial management, and local data export/import.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
